@@ -1,4 +1,4 @@
-class Elasticsearch14: < Formula
+class Elasticsearch14 < Formula
   desc "Distributed search & analytics engine"
   homepage "https://www.elastic.co/products/elasticsearch"
   url "https://download.elastic.co/elasticsearch/elasticsearch/elasticsearch-1.4.5.tar.gz"
